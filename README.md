@@ -1,6 +1,6 @@
 # Computational Physics I
 
-Link to projects related to Computational Physics I (FYS3150) at the University of Oslo (autumn semester 2019). The projects are a collaboration with
+Link to projects related to Computational Physics I (FYS3150) at the University of Oslo (autumn semester 2019). The projects are in collaboration with
 - [Knut Magnus Aasrud](https://github.com/kmaasrud)
 - [Amund Midtgard Raniseth](https://github.com/amundmr)
 
